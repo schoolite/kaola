@@ -8734,3 +8734,10 @@ sup.dollar {
   }
 }
 /*** Retina Display Images **/
+
+
+/*  Custom */
+
+.services-icon-image{
+  max-height: 300px; 
+}

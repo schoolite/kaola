@@ -12,8 +12,8 @@ Services page
 1. The icons are too big on mobile
 2. They don't align to the centre with the text
 3. The menu is not responsive as well
-4. Typo; services not servises
-5. Remove the blue line
+<!-- 4. Typo; services not servises -->
+<!-- 5. Remove the blue line -->
 <!-- 6. There is no back to top button -->
 
 Sectors page
