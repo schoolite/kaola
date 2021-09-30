@@ -3,13 +3,10 @@
 Generally:
 <!-- 1. The bottom links don't show what page you are active one -->
 
-Home page
-1. the image under the phone image is not responsive
-
 About page
 1. I don't understand the images you used under the goals, mission, vision
 <!-- 2. Make the "trusted partners list" responsive -->
-3. Where is the "become a partner"?
+<!-- 3. Where is the "become a partner"? -->
 
 Services page
 1. The icons are too big on mobile

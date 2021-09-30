@@ -4000,7 +4000,7 @@ Misc buttons
 }
 .nav-tabs > li > a {
   border-radius: 0;
-  padding: 15px 20px;
+  /* padding: 15px 20px; */
   margin-right: 0;
   font-family: 'Montserrat';
   font-weight: 400;
