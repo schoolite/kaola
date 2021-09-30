@@ -18,8 +18,8 @@ Services page
 
 Sectors page
 <!-- 1. It says "services" instead of sectors -->
-2. "check out this service"? what is that? shouldn't it be the sector name?
-3. When you click, it's the same Image that shows, it doesn't pick the image of the sector you clicked on
+<!-- 2. "check out this service"? what is that? shouldn't it be the sector name? -->
+<!-- 3. When you click, it's the same Image that shows, it doesn't pick the image of the sector you clicked on -->
 
 Contact page:
 1. Put a correct Nigerian phone number format
