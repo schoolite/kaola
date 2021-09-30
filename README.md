@@ -9,8 +9,8 @@ About page
 <!-- 3. Where is the "become a partner"? -->
 
 Services page
-1. The icons are too big on mobile
-2. They don't align to the centre with the text
+<!-- 1. The icons are too big on mobile -->
+<!-- 2. They don't align to the centre with the text -->
 3. The menu is not responsive as well
 <<<<<<< HEAD
 <!-- 4. Typo; services not servises  -->
