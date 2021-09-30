@@ -1,23 +1,23 @@
 # koala_website
 
 Generally:
-1. The bottom links don't show what page you are active one
+<!-- 1. The bottom links don't show what page you are active one -->
 
 Home page
 1. the image under the phone image is not responsive
 
 About page
 1. I don't understand the images you used under the goals, mission, vision
-2. Make the "trusted partners list" responsive
+<!-- 2. Make the "trusted partners list" responsive -->
 3. Where is the "become a partner"?
 
 Services page
 1. The icons are too big on mobile
 2. They don't align to the centre with the text
 3. The menu is not responsive as well
-4. Typo; services not servises
+<!-- 4. Typo; services not servises  -->
 5. Remove the blue line
-6. There is no back to top button
+<!-- 6. There is no back to top button -->
 
 Sectors page
 1. It says "services" instead of sectors
