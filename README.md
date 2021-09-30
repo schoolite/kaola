@@ -22,7 +22,7 @@ Services page
 <!-- 6. There is no back to top button -->
 
 Sectors page
-1. It says "services" instead of sectors
+<!-- 1. It says "services" instead of sectors -->
 2. "check out this service"? what is that? shouldn't it be the sector name?
 3. When you click, it's the same Image that shows, it doesn't pick the image of the sector you clicked on
 
